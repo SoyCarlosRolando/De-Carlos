@@ -2,7 +2,7 @@
 
     const { value: mensaje1 } = await Swal.fire({
         title: 'Hola Rayda',
-        text: 'Qué hiciste, es la pregunta, te lo he perdonado, pero no olvido. Hubo un momento en el que si me dieran la posibilidad de viajar en el tiempo e interrumpir lo que provocó eso que fumarás o que tomaras de esa manera que lo haces ahora, lo haría',
+        text: 'Qué hiciste, es la pregunta, te lo he perdonado, pero no olvido. Hubo un momento en el que te dije que si me dieran la posibilidad de viajar en el tiempo e interrumpir lo que provocó eso que fumarás o que tomaras de esa manera que lo haces ahora, lo haría',
         allowOutsideClick: false,
         allowEscapeKey: false,
         allowEnterKey: false,
