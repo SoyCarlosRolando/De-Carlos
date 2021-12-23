@@ -21,7 +21,7 @@
         if (mensaje2) {
             const { value: mensaje3 } = await Swal.fire({
             
-                text: 'Cada persona tiene como llevar las cosas, tú antes de conocerme el hacer lo que haces ahorita no era algo fuera de lo normal',
+                text: 'Cada persona tiene como llevar las cosas, tú antes de conocerme el hacer lo que haces ahorita no era algo fuera de lo normal, si, parecía que lo estabas dejando, pero cuando había oportunidad de tomar y fumar tú aceptabas a tus "cercanos" y pues que se puede decir, no?',
             allowOutsideClick: false,
         allowEscapeKey: false,
         allowEnterKey: false,
