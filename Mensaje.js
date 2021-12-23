@@ -11,7 +11,7 @@
     });
     if (mensaje1) {
         const { value: mensaje2 } = await Swal.fire({
-                        text: 'He tratado de mantenerme ocupado, nunca te voy a olvidar, y la verdad que no se que hubiera hecho si hubieses venido.  Diría me sorprende, pero ya es común que estes acompañada',
+                        text: 'He tratado de mantenerme ocupado, y hacer esto es lo que estado poniendo en práctica últimamente, nunca te voy a olvidar, y la verdad que no se que hubiera hecho si hubieses venido.  Diría me sorprende, pero ya es común que estes acompañada',
             allowOutsideClick: false,
         allowEscapeKey: false,
         allowEnterKey: false,
